@@ -1,0 +1,60 @@
+body{
+    font-family: 'Noto Serif Display', serif;
+}
+h1{
+    font-size: 50px;
+}
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.rong{
+    color: orange;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(gold, orange, tomato, red, gold);
+    padding: 10px 40px;
+    border-radius: 2%;
+    color: white;
+    font-weight: 900;
+
+}
+.half-width{
+    width: 80%;
+    padding-left: 6%;
+}
+.half-width img{
+    width: 80%;
+}
+#text-allign{
+    text-align: center;
+}
+.image-size{
+    width: 20%;
+}
+.mi-vi-goal-half-width{
+    width: 90%;
+    }
+.flexible-container{
+    display: flex;
+}
+.mission-shadow{
+    background-color: rgb(226, 209, 209);
+    border-radius: 10px;
+    padding: 20px 20px;
+    margin-left: 7%;
+    margin-right: 2%;
+}
+.vision-shadow{
+    background-color: rgb(239, 243, 221);
+    border-radius: 10px;
+    padding: 20px 20px;
+    margin-right: 2%;
+}
+.goal-shadow{
+    background-color: lightcyan;
+    border-radius: 10px;
+    padding: 20px 20px;
+    margin-right: 2%;
+}
